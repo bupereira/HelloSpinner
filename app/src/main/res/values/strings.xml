@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Converter by Murilo</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="uom_array">
+        <item>m</item>
+        <item>ft</item>
+        <item>mi</item>
+        <item>km</item>
+    </string-array>
+</resources>
